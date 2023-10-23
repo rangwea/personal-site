@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on swallow</title>
+    <link>http://local:1313/post/</link>
+    <description>Recent content in Posts on swallow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 20 Oct 2023 10:17:19 +0000</lastBuildDate><atom:link href="http://local:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>http://local:1313/post/1/</link>
+      <pubDate>Fri, 20 Oct 2023 10:17:19 +0000</pubDate>
+      
+      <guid>http://local:1313/post/1/</guid>
+      <description>1</description>
+    </item>
+    
+  </channel>
+</rss>
